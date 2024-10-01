@@ -7,11 +7,3 @@ for x in range(2):
                 if F == 0 and x + y + z + w == 3:
                     print(x, y, z, w)
  
-  #x y z w
-#  0 1 1 1
-#  1 0 1 1    not(x) and not(y) and not(z) and not(w)
-#  1 1 0 1
-#  1 1 1 0
-
-
-#(w <= y) == (x and z)
